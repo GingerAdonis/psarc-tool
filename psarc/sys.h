@@ -8,6 +8,8 @@
 
 #define _FILE_OFFSET_BITS 64
 
+#define ZLIB_WINAPI
+
 #include <errno.h>
 #include "libgen.h"
 #include <stdio.h>
