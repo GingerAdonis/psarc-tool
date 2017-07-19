@@ -16,8 +16,10 @@
 psarc/Debug
 psarc/Release
 .vs
-bin
 *.exe
 *.opensdf
 *.suo
 *.sdf
+*.iobj
+*.ipdb
+*.pdb
