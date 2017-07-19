@@ -2,7 +2,7 @@
 
 PSARC (PS3 archive) extractor for Windows. Port of Matthieu Milan's open PSARC PS3 extractor to Windows.
 
-You can find the latest and older versions [here](https://github.com/Ryochan7/DS4Windows/releases).
+You can find the latest version [here](https://github.com/JarnoVgr/psarc-tool/releases).
 
 Tool written by **Matthieu Milan** (@usineur).
 Ported to VS2012 by **AlexAltea**.
