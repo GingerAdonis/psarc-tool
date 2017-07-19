@@ -13,8 +13,10 @@
 *.a
 
 # Unwanted files and folders
-src/Debug
-src/Release
+psarc/Debug
+psarc/Release
+.vs
+bin
 *.exe
 *.opensdf
 *.suo
