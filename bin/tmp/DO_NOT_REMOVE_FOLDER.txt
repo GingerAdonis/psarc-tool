@@ -1,0 +1,1 @@
+Do not remove the "tmp" folder. psarc-tool will crash without it.
